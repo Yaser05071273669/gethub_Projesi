@@ -1,1 +1,22 @@
 
+{
+    "istanbul": [
+        {
+            "isim": "Ayasofya CAMI",
+            "aciklama": "Ayasofya (anlamı: "Kutsal Bilgelik"; Grekçe: Ἁγία Σοφία, romanize: Agia Sofia), eski adıyla Kutsal Bilgelik Kilisesi ve Ayasofya Müzesi veya günümüzdeki resmî adıyla Ayasofya-i Kebîr Câmi-i Şerîfi (Kutsal Büyük Ayasofya Camii),[4][5] İstanbul'da yer alan bir cami ve eski bazilika, katedral ve müzedir. Bizans İmparatoru I. Justinianus tarafından, 532-537 yılları arasında İstanbul'un tarihî yarımadasındaki eski şehir merkezine inşa ettirilmiş bazilika planlı bir patrik katedrali olmuştur. 1453 yılında İstanbul'un Osmanlılar tarafından fethedilmesinden sonra II. Mehmed tarafından camiye dönüştürülmüştür. Mustafa Kemal Atatürk tarafından 1934 yılında yayımlanan kararname ile tadilat çalışmasına alınmış, 1935 yılında bakanlar kurulu kararı ile müzeye dönüştürülme kararı alınıp müzeye dönüştürülmüş, kazı ve tadilat çalışmaları başlatılmış ve 1935'ten 2020'ye kadar müze olarak hizmet vermiştir. 2020 yılında ise müze statüsü iptal edilerek cami statüsü verilmiştir. ",
+            "fotourl": "https://raw.githubusercontent.com/fudamuboy/gitprojesi/main/camı.jpg"
+        },
+        {
+            "isim": "Kadıköy Çarşı",
+            "aciklama": "Kadıköy, eskiden Kalkedon (Yunanca: Χαλκηδών, romanize: Halkidon), İstanbul ilinin Anadolu Yakası'nda yer alan ilçelerinden birisidir. Kocaeli Yarımadası'nın güneybatı kesiminde bulunan Kadıköy, batı ve güneyde Marmara Denizi, kuzeybatıda Üsküdar, kuzeydoğuda Ataşehir ve doğuda Maltepe ilçeleriyle çevrilidir.",
+            "fotourl": "https://raw.githubusercontent.com/fudamuboy/gitprojesi/main/müze.jpg"
+        },
+        {
+            "isim": "Galata Kulesi",
+            "aciklama": "Galata Kulesi ya da müze olarak kullanılmaya başlaması sonrasındaki adıyla Galata Kulesi Müzesi, İstanbul'un Beyoğlu ilçesinde bulunan bir kuledir. Adını, bulunduğu Galata semtinden alır. Galata Surları dahilinde bir gözetleme kulesi olarak inşa edilen kule, farklı dönemlerde farklı amaçlarla kullanılmasının ardından 2020'den itibaren, bir sergi mekânı ve müze olarak hizmet verir. Hem Beyoğlu'nun hem de İstanbul'un sembol yapılarındandır..",
+            "fotourl": "https://raw.githubusercontent.com/fudamuboy/gitprojesi/main/yasa.jpg"
+        }
+       
+    ]
+    
+}
